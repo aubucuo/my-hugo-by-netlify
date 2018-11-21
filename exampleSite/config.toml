@@ -22,7 +22,7 @@ enableEmoji = true
 defaultContentLanguage = "zh"
 
 [params.info]
-description = "谨言慎行"
+description = "description"
 title404 = "Nothing's here!"
 
 [params.assets]
