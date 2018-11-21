@@ -1,7 +1,7 @@
-baseURL = "http://www.example.com"
-title = "Minimo"
+baseURL = "https://jaymi.cn"
+title = "Jaymi"
 # for smart copyright line, leave this blank and check [params.copyright]
-copyright = ""
+copyright = "xixixixixxxx"
 
 theme = "minimo"
 
@@ -19,10 +19,10 @@ pygmentsCodefences = true
 enableEmoji = true
 
 # Missing translations will default to this content language
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh"
 
 [params.info]
-description = "Minimalist theme for Hugo"
+description = "谨言慎行"
 title404 = "Nothing's here!"
 
 [params.assets]
@@ -33,8 +33,8 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
 prefix = ""
-holder = "MunifTanjim"
-startYear = "2017"
+holder = "Jaymi"
+startYear = "2018"
 suffix = ""
 
 [params.settings]
