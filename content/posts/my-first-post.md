@@ -1,8 +1,8 @@
----
-date = "2019-01-09T10:50:55+08:00"
++++
+date = "2019-01-09"
 title = "my first post"
-tag = 'test'
-category = '生活'
----
+tags = 'test'
+categories = '生活'
++++
 
 ## my fisrt post
