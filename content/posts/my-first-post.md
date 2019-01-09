@@ -1,7 +1,8 @@
-+++
+---
 date = "2019-01-09T10:50:55+08:00"
 title = "my first post"
-
-+++
+tag = 'test'
+category = '生活'
+---
 
 ## my fisrt post
