@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://note.jaymi.cn/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Jaymi's note"
 theme = "Maupassant"
